@@ -17,14 +17,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📈 My GitHub Journey
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=default)
-
----
-
 ## 📫 Let's Connect
 
 - 📍 Turkey
