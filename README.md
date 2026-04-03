@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there! I'm Soydan 👋
 
-<!--
-**SoydanSurguvenc/SoydanSurguvenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋 About Me
 
-Here are some ideas to get you started:
+- 🎓 Currently a student passionate about technology
+- 🐍 Learning **Python** from scratch
+- 🌱 Just getting started on my software development journey
+- 🔍 Exploring the world of open source
+- 💡 Motivated to grow as a developer every single day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 My GitHub Journey
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=default)
+
+---
+
+## 📫 Let's Connect
+
+- 📍 Turkey
+- 🧑‍🎓 Open to collaborating and learning together!
